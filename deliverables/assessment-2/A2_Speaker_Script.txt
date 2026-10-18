@@ -1,0 +1,26 @@
+COMM5030 ASSESSMENT 2 — SIX-MINUTE SPEAKER SCRIPT
+Yangyang Xiao | 710 spoken words
+
+SLIDE 1 | 0:00–0:30 | Beyond Toy Counts
+Hello, I'm Yangyang Xiao. Joy of Giving redistributes toys and books, and our team must explain its social and environmental contribution. My research asks how a brief parent survey can assess perceived changes in access to suitable play resources. I propose a small set of targeted questions, with clear rules for what the answers can tell us.
+
+SLIDE 2 | 0:30–1:00 | An evidence-informed indicator review
+This is a desk-based design study, not a completed family survey. I reviewed course frameworks and five official methods documents from three institutions, then compared measurement options against relevance, respondent burden, feasibility and interpretation. The resulting questions are proposals for testing. They have not been validated for Joy of Giving, and no participant outcomes are estimated here.
+
+SLIDE 3 | 1:00–2:00 | Measure access beyond redistribution
+The first distinction is between activity and change. Toy counts show what the organisation distributed. Family counts show reach. Neither establishes whether a child could access suitable resources more easily. In a proposed logic model, redistribution is the activity, items received are outputs, and easier access is an intended short-term outcome. That link depends on whether items suit the child, reach the household and remain usable. General satisfaction answers another question: whether the service experience was positive. It is useful feedback, but a positive experience can coexist with unchanged access. For the impact report, keep output counts, service feedback and reported access change in separate categories. Longer-term child development remains outside this study.
+
+SLIDE 4 | 2:00–3:00 | Define access before writing questions
+My second conclusion is to treat access as several related questions, rather than one untested score. Availability concerns whether a family can obtain relevant resources when needed. Affordability concerns cost barriers. Suitability concerns whether items meet the nominated child's play needs. These are candidate dimensions for client review and family testing. Actual use supplies context: receiving an item does not tell us whether it was used. But frequent use also does not prove that access improved or that development changed. Week five's systems perspective adds a question: could transport, storage or household circumstances explain the answer? A neutral open question can reveal constraints without assuming that every family benefited.
+
+SLIDE 5 | 3:00–4:00 | Comparing measurement options
+The comparison shows why no single measure is sufficient. Distribution records can be reused to describe programme activity, but do not measure household change. A satisfaction question is simple, but only indirectly related to access. A direct change question fits the outcome more closely, although it asks parents to recall an earlier period. A short set of specific questions plus a comment provides more interpretation, at the cost of extra response time and analysis. A longer instrument also requires staff time to check incomplete responses and code open comments. My recommendation is a brief combination, with each item earning its place. Retain an item only if its answer informs a report claim or a decision. Its actual burden should be tested, rather than assumed.
+
+SLIDE 6 | 4:00–5:00 | Five questions, each with a clear purpose
+The draft has five questions: perceived access change, cost barriers, suitability, recent use and a neutral explanation, including difficulties. I propose inviting adult carers four weeks after a selected visit, with clear before-and-after periods for the change question. This timing is a design choice to pilot, not an established optimum. Explain which child and resources to consider. Include uncertainty where valid, leave response options unselected, and let respondents review answers before submitting. Keep the change categories separate, and show missing and uncertain responses. Cost, suitability and use provide context; they should not be added into an unvalidated total. The full wording is in the appendix. Testing must check comprehension as well as completion time. Ask carers to explain each question in their own words before finalising it.
+
+SLIDE 7 | 5:00–5:30 | Reported change has limits
+The main limitation is that recalled change is not a causal estimate. More engaged families may be more likely to respond, while other household changes may affect access. Say 'among responding families' and specify the period. Records and interviews strengthen interpretation but cannot establish the counterfactual. The general guidance also needs testing in this particular family and toy context.
+
+SLIDE 8 | 5:30–6:00 | Turn the framework into a team deliverable
+Before Assessment Three, agree the priority outcome with the client, test understanding and burden with adult carers, then revise and compare responses with available records or interviews. The team receives a questionnaire, an indicator dictionary and reporting rules. These support both the impact report and public communication. My contribution is a way to describe reported access change while matching every claim to the evidence.
